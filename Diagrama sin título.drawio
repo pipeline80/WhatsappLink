@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T22:20:02.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="gsKZc5Z6hAF1d4IoO7Da" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-24T22:21:48.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="coIQNg-XRraoobcYKzVq" version="23.1.6" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -10,23 +10,20 @@
         <mxCell id="677b7b8949515195-2" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="305" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-15" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="640" width="580" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="677b7b8949515195-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="230" width="580" height="400" as="geometry" />
+          <mxGeometry x="480" y="300" width="140" height="280" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-25" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="110" width="230" height="40" as="geometry" />
+          <mxGeometry x="390" y="165.65" width="140" height="24.35" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-26" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="640" width="230" height="180" as="geometry" />
+          <mxGeometry x="750" y="190" width="230" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-42" value="Telefono" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="290" y="120" width="170" height="20" as="geometry" />
+        <mxCell id="677b7b8949515195-42" value="Pais" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="320" y="168.6" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="no5PY5km7POX4vqF2Ka_-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;rounded=0;shadow=0;comic=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="116.66999999999999" width="20" height="26.67" as="geometry" />
+          <mxGeometry x="505" y="168.6" width="13.93" height="18.45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
